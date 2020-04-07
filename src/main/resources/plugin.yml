@@ -1,0 +1,6 @@
+name: ShopGUIPlusMineableSpawnersBridge
+version: 1..0.0
+main: net.brcdev.shopgui.bridge.mineablespawners.ShopGuiBridgeMineableSpawnersPlugin
+author: brc
+depend: [ShopGUIPlus, MineableSpawners]
+api-version: 1.13
