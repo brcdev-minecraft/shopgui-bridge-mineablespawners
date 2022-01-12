@@ -63,7 +63,7 @@
         <dependency>
             <groupId>com.dnyferguson.mineablespawners</groupId>
             <artifactId>MineableSpawners</artifactId>
-            <version>3.1.1</version>
+            <version>3.1.2</version>
         </dependency>
     </dependencies>
 </project>
