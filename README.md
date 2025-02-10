@@ -1,3 +1,9 @@
+# No longer maintained
+With the original MineableSpawners plugin no longer maintained since June 2023, 
+this bridge will also receive no further updates.
+
+<hr>
+
 # ShopGUI+ bridge for MineableSpawners
 This repository contains source code for ShopGUI+ bridge for MineableSpawners.
 
